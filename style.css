@@ -1,0 +1,13 @@
+input{
+    margin: 20px;
+}
+hr{
+    width: 230px;
+} 
+body{
+    background-image: "Background.png";
+}
+#Inputs{
+    float: right;
+    margin-top: -580px;
+}
